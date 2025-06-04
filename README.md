@@ -1,6 +1,6 @@
 # AZLM Crochet Frame Firmware Alt
 
-### For displying static images
+### For displaying static images
 
 <br>
 
